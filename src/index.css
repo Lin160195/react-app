@@ -1,0 +1,25 @@
+.container {
+  margin: 0;
+  border: 1px solid hsla(0, 3%, 43%, 0.788);
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px hsla(0, 3%, 43%, 0.6);
+  padding: 10px;
+  max-width: 500px;
+  height:auto;
+  border-bottom: 3px solid hsla(0, 3%, 43%, 0.788);
+  background-color: hsl(188, 100%, 88%);
+}
+h4 {
+  font-family:Lucida Sans, sans-serif;
+  font-weight: bold;
+}
+.caption1 {
+  display: float;
+  align-content: row;
+}
+.price-display{
+  float: right;
+  margin-right: 20px;
+  margin-top: 0;
+
+}
